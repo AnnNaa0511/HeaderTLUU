@@ -66,13 +66,15 @@
     position: relative;
     width: 100%;
     height: 27px;
-    border: 1px solid rgb(80, 41, 41);
+    border: 1px solid rgb(45, 102, 149);
+    background-color: #f2f7f9;
 }
 
 #tbHome {
     border: none;
     height: 100%;
     width: 88%;
+    background-color: #f2f7f9;
 }
 
 .right_container {
